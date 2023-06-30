@@ -1,7 +1,7 @@
 import React from 'react';
 import { Nav, Navbar, Button } from 'react-bootstrap';
 import Fade from 'react-reveal/Fade'; 
-import Resume from "../assets/Roshan_Kanwar_Resume.pdf";
+import Resume from "../assets/Shriraj_Yogendra_Jahagirdar.pdf";
 
 const NavbarComponent = () => {
     const changeBackground = () => {
@@ -25,7 +25,7 @@ const NavbarComponent = () => {
         >
           <Fade left cascade>
           <Navbar.Brand href="#home" className="brand-name ml-5">
-            Roshan.
+            Shriraj.
           </Navbar.Brand>
           </Fade>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />

@@ -15,7 +15,7 @@ const Cover = () => {
           <Fade top cascade>
             <section className="div-1">
               <h1 className="my-1 head-div-first-text">Hi, my name is</h1>
-              <h1 className="head-div-second-text">Roshan Kanwar.</h1>
+              <h1 className="head-div-second-text">Shriraj Jahagirdar.</h1>
               <h1 className="head-div-third-text">
                 I turn ideas into reality.
               </h1>
@@ -65,11 +65,11 @@ export default Cover;
 
 const SocialData = [
   {
-    link: "https://github.com/roshan0708",
+    link: "https://github.com/Shriraj26",
     icon: faGithub,
   },
   {
-    link: "https://www.linkedin.com/in/roshan0708/",
+    link: "https://www.linkedin.com/in/shriraj-jahagirdar-585179175/",
     icon: faLinkedin,
   },
   {

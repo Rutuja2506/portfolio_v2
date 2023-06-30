@@ -13,7 +13,7 @@ const About = () => {
           <h1 className="heading">About Me</h1>
           <div>
             <p className="text mt-4 mb-3">
-              Hello! I'm Roshan, a software development enthusiast, competitive
+              Hello! I'm Shriraj, a software development enthusiast, competitive
               coder, and writer from India.
             </p>
             <p className="text my-3">
