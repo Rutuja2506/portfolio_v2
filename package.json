@@ -1,7 +1,7 @@
 {
   "name": "portfolio-site-2",
   "version": "0.1.0",
-  "homepage": "http://roshan0708.github.io/portfolio_v2",
+  "homepage": "http://localhost:3001/portfolio_v2",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",

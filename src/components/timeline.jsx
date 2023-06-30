@@ -25,7 +25,7 @@ const Timeline = () => {
                               <span> | </span>
                               <p style={{fontSize:"17px",opacity:"0.4"}}>{item.date}</p>
                             </div>
-                            <p className="text">Software Engineer Intern</p>
+                            <p className="text">Software Engineer</p>
                           </div>
                           <div className="timeline-body">
                             <p>{item.text}</p>
